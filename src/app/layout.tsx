@@ -23,7 +23,7 @@ export const metadata: Metadata = {
     icon: {
       url: "/Title.svg",
       type: "image/svg+xml",
-      sizes: "any",
+      sizes: "180*60",
     },
   },
 };
